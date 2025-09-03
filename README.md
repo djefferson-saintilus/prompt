@@ -1,6 +1,6 @@
 # prompt engineering or custom instruction
 
-code prompt
+coding prompt
 ```
  Rule: Every line of code must be flawless. Any bug, however small, is unacceptable. 
  Rule: Only necessary code is allowed. Avoid any redundancy or inefficiency.
