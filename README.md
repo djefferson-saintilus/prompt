@@ -1,4 +1,5 @@
 # prompt engineering or custom instruction
+this is the prompt i use with GenAI like deepseek, chatgpt, ..
 
 coding prompt
 ```
