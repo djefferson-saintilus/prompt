@@ -38,3 +38,40 @@ When coding do consider these rules below:
  Rule: Your system will face intense scrutiny. Anticipate and prevent breaches.
  Rule: Maintain secure, environment-specific settings. 
 ```
+
+## best prompt universal AI recommended to build a very good projects that works 
+```
+I want to build a Python [type of app: web API, web app, CLI tool, desktop app, data pipeline, etc.].
+
+MVP Goal: [One sentence: what the app must do at its simplest to be considered usable].
+
+Platform: [Web API / Web app / CLI / Desktop / Mobile backend / Batch job].
+
+Top 3 Features:
+
+[Feature 1]
+
+[Feature 2]
+
+[Feature 3]
+
+Constraints: [Python version, required frameworks, DB choice, vendor lock-in, compliance needs].
+
+Users: [Who will use it, their technical level, expected usage scale].
+
+Non-functional Requirements: [Performance targets, offline mode, reliability, response time, security level].
+
+Integration Needs: [Any APIs, data sources, authentication providers; or state “None for MVP”].
+
+Deployment Target: [Local use, Docker, cloud provider, serverless, etc.].
+
+Testing & Quality: [Unit tests only, or include integration/load tests, code coverage targets].
+
+Future Considerations (Optional): [Features you want later but not in MVP].
+```
+
+### one liner that keep working
+
+```
+Build a Python [app type] that [main goal]; MVP = [single must-have outcome]; platform = [web/CLI/desktop/etc.]; features = [3 bullets]; constraints = [Python version, frameworks/DB]; users = [who & scale]; non-functional = [performance/security]; deployment = [local/cloud/etc.].
+```
